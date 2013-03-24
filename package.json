@@ -1,0 +1,20 @@
+{
+  "author": "Tom Zhou <zs68j2ee@gmail.com>",
+  "name": "peer-wget",
+  "description": "Web get files from peer",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/InstantWebP2P/node-peer-wget.git"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "main": "index",
+  "dependencies": {
+    "iwebpp.io": "latest"
+  },
+  "devDependencies": {
+    "expect.js": "0.1.x"
+  }
+}
